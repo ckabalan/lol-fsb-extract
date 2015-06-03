@@ -1,0 +1,5 @@
+All of the LoLFSBExtract stuff doesn't matter, they changed from FMOD to WWISE or something.
+
+Use "java -jar RAFTools..." to extract the LoL directory stuff
+Use Ravioli Game Tools to select all of the BNK files and extract to their own directories
+Use dbPowerAmp or something to convert all the WAVs to MP3s

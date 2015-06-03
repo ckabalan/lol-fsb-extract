@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<ExplorerConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <General>
+    <LastOpenDir />
+    <StartupBehaviour>DoNothing</StartupBehaviour>
+  </General>
+  <Extract>
+    <LastExtractDir />
+    <CreateSubDirectory>false</CreateSubDirectory>
+    <ConvertImages>false</ConvertImages>
+    <TargetImageFormat />
+    <LastSaveDir />
+    <ConvertSounds>false</ConvertSounds>
+    <TargetSoundFormat />
+  </Extract>
+  <Viewer>
+    <WindowSettings>
+      <Left>0</Left>
+      <Top>0</Top>
+      <Width>0</Width>
+      <Height>0</Height>
+      <State>Normal</State>
+    </WindowSettings>
+  </Viewer>
+  <Browser>
+    <WindowSettings>
+      <Left>868</Left>
+      <Top>625</Top>
+      <Width>648</Width>
+      <Height>485</Height>
+      <State>Normal</State>
+    </WindowSettings>
+    <Preview>
+      <Active>true</Active>
+      <Width>183</Width>
+      <PreviewSounds>true</PreviewSounds>
+      <LockImageZoom>false</LockImageZoom>
+      <AutoPlaySounds>true</AutoPlaySounds>
+    </Preview>
+    <Output>
+      <Height>80</Height>
+    </Output>
+    <FileListView>Details</FileListView>
+    <SortCriterion>Name</SortCriterion>
+    <SortOrder>Ascending</SortOrder>
+    <DirectoryTreeWidth>210</DirectoryTreeWidth>
+    <DirectoryView>Hierarchical</DirectoryView>
+  </Browser>
+  <UnknownFiles>
+    <AllowScanning>true</AllowScanning>
+    <AskBeforeScanning>true</AskBeforeScanning>
+  </UnknownFiles>
+</ExplorerConfig>

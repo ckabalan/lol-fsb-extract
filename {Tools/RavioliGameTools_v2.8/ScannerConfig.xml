@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ScannerConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Directories>
+    <LastScanSourceDir>E:\Program Files\LOLDUMP\DATA\Sounds\Wwise\SFX\Characters\Aatrox\Skins\Base</LastScanSourceDir>
+    <LastLoadSaveDir />
+    <LastExtractDir />
+  </Directories>
+  <MainWindowSettings>
+    <Left>776</Left>
+    <Top>680</Top>
+    <Width>615</Width>
+    <Height>414</Height>
+    <State>Maximized</State>
+  </MainWindowSettings>
+  <ViewerWindowSettings>
+    <Left>0</Left>
+    <Top>0</Top>
+    <Width>0</Width>
+    <Height>0</Height>
+    <State>Normal</State>
+  </ViewerWindowSettings>
+  <Options>
+    <Unknowns>true</Unknowns>
+    <Hex>false</Hex>
+    <Log>false</Log>
+    <Range>false</Range>
+  </Options>
+</ScannerConfig>
